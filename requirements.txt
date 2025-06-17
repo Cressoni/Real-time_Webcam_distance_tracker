@@ -1,0 +1,7 @@
+# Deep learning & detection
+torch>=1.7.0
+torchvision>=0.8.0
+
+# Computer vision
+opencv-python>=4.5.0
+numpy>=1.19.0
