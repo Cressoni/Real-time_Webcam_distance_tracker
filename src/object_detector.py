@@ -1,9 +1,3 @@
-
----
-
-### 3. src/object_detector.py
-
-```python
 import torch
 import cv2
 
